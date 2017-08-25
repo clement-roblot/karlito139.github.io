@@ -1,14 +1,14 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: Florian Roussel - Blog
+description: Blog
+author: Florian Roussel
 logo: /static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+about: C++/Qt Software Engineer
 
 baseurl: ""
 url: "127.0.0.1"
 
 allowsearch: false
+allowgoogleanalytics: true
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
