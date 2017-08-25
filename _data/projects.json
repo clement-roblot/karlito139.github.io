@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Cool project 1",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"name": "AW Simulator",
+		"image": "awsimulator.png",
+		"url": "/projects/2017/08/25/awsimulator.html",
+		"date": "Apr 2017",
+		"tags": ["C++","Qt","Lua","Yocto"]
 	},
 	{
 		"name": "Cool project 2",
