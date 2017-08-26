@@ -16,6 +16,11 @@
     "icon": "fa-desktop"
   },
   {
+    "text": "Education",
+    "url": "/education",
+    "icon": "fa-book"
+  },
+  {
     "text": "Resume",
     "url": "/#",
     "icon": "fa-graduation-cap",
