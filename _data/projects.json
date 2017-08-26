@@ -2,7 +2,7 @@
 	{
 		"name": "AW Simulator",
 		"image": "awsimulator.png",
-		"url": "/projects/2017/08/25/awsimulator.html",
+		"url": "/projects/awsimulator.html",
 		"date": "Apr 2017",
 		"tags": ["C++","Qt","Lua","Yocto"]
 	},
