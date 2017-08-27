@@ -49,7 +49,7 @@ p.info a {
 .social-icons {
     margin: 20px 0 0;
 }
-.icon {
+.icon, .icon:focus {
     background: rgba(255, 255, 255, 0.63);
     border-radius: 100%;
     text-align: center;
