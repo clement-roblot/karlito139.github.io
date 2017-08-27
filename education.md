@@ -1,5 +1,5 @@
 ---
-layout: project
-title: Projects
-permalink: /projects/
+layout: page
+title: Education
+permalink: /education/
 ---
