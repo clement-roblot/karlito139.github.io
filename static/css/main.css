@@ -220,3 +220,11 @@ footer {
     position: absolute;
     right: 12px;
 }
+
+/******************/
+/** Project item **/
+/******************/
+.project-item-header {
+    font-size: 12px;
+    font-style: italic;
+}
