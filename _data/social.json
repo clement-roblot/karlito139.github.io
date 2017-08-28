@@ -6,10 +6,13 @@
   {
     "icon": "fa-github",
     "link": "https://github.com/Nifrios"
-  }
-  ,
+  },
   {
     "icon": "fa-envelope-o",
     "link": "mailto:fr.florianroussel@gmail.com"
+  },
+  {
+    "icon": "fa-envelope-o",
+    "link": ""
   }
 ]
