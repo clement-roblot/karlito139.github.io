@@ -1,9 +1,9 @@
 <div class="social-icons">
 	{% for link in site.data.social %}
 		{% if link.icon != "fa-envelope-o" %}
-			<a class="icon" target="_blank" href="{{ link.link }}"><i class="fa {{ link.icon }}"></i></a>
+			<span title="{{ link.title }}"><a class="icon" target="_blank" href="{{ link.link }}"><i class="fa {{ link.icon }}"></i></a></span>
 		{% else %}
-			<a class="icon" href="{{ link.link }}"><i class="fa {{ link.icon }}"></i></a>
+			<span title="{{ link.title }}"><a class="icon" href="{{ link.link }}" ><i class="fa {{ link.icon }}"></i></a></span>
 		{% endif %}
 	{% endfor %}
 </div>

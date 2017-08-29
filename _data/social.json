@@ -1,18 +1,22 @@
 [
   {
     "icon": "fa-linkedin",
-    "link": "https://linkedin.com/in/florian-roussel"
+    "link": "https://linkedin.com/in/florian-roussel",
+    "title": "LinkedIn link"
   },
   {
     "icon": "fa-github",
-    "link": "https://github.com/Nifrios"
+    "link": "https://github.com/Nifrios",
+    "title": "GitHub Link"
   },
   {
     "icon": "fa-envelope-o",
-    "link": "mailto:fr.florianroussel@gmail.com"
+    "link": "mailto:fr.florianroussel@gmail.com",
+    "title": "Send email"
   },
   {
-    "icon": "fa-envelope-o",
-    "link": ""
+    "icon": "fa-file-text-o",
+    "link": "",
+    "title": "Download resume"
   }
 ]
