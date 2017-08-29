@@ -1,23 +1,18 @@
-/* Variables */
-/* Fonts */
-
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,700);
 body {
-    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 1em;
     font-weight: 300;
     line-height: 1.5;
     letter-spacing: 0.05em;
 }
-/* Layout */
 
+/* Layout */
 * {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
-/* Styling */
 
+/* Styling */
 .timeline {
     margin: 4em auto;
     position: relative;
@@ -98,6 +93,12 @@ body {
     padding-left: 1em;
 }
 .training li {
-    margin-left: 2em;
-    font-size: 0.90em;
+    margin-left: 1em;
+    font-size: 0.9em;
+}
+.training span {
+    font-size: 0.7em;
+}
+h4 {
+    font-size: 0.9em !important;
 }
