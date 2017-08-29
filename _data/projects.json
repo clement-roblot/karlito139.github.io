@@ -4,5 +4,29 @@
 		"image": "awsimulator.png",
 		"url": "/projects/awsimulator.html",
 		"tags": ["C++","Qt","Lua","Yocto"]
-	}
+	},
+  {
+    "name": "EMG data exploitation",
+    "image": "BITalino.jpg",
+    "url": "/projects/bitalino.html",
+    "tags": ["Python", "LeapMotion", "Kinect"]
+  },
+  {
+    "name": "TDOA localization",
+    "image": "TDOA.jpg",
+    "url": "/projects/tdoa.html",
+    "tags": ["C++","Java"]
+  },
+  {
+    "name": "Home automation",
+    "image": "home-automation.png",
+    "url": "/projects/home-automation.html",
+    "tags": ["Python","Arduino","JSON"]
+  },
+  {
+    "name": "Engineering design software",
+    "image": "dcns.jpg",
+    "url": "/projects/dcns.html",
+    "tags": ["C#","TFS","TDD"]
+  }
 ]
