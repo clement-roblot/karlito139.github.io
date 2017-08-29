@@ -10,11 +10,6 @@
     "title": "GitHub Link"
   },
   {
-    "icon": "fa-envelope-o",
-    "link": "mailto:fr.florianroussel@gmail.com",
-    "title": "Send email"
-  },
-  {
     "icon": "fa-file-text-o",
     "link": "",
     "title": "Download resume"

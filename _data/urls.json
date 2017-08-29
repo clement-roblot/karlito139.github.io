@@ -14,5 +14,10 @@
     "text": "Education",
     "url": "/education",
     "icon": "fa-book"
+  },
+  {
+    "text": "Contact",
+    "url": "mailto:fr.florianroussel@gmail.com",
+    "icon": "fa-envelope-o"
   }
 ]
