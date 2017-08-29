@@ -10,6 +10,9 @@ permalink: /education/
       <p class="timeline-event-thumbnail">June 2017 - July 2017</p>
       <h3>Lion</h3>
       <h4><a href="https://joinlion.co/" target="_blank">The Family</a>, Paris - France</h4>
+      In 8 weeks, each LION is invited to meet talented entrepreneurs, train, follow inspiring lectures, test their skills and integrate a true community of enthusiasts.
+      <br/>
+      The objective: to allow each LION to excel in a startup, from the first day.
     </div>
   </li>
   <li class="timeline-event">
