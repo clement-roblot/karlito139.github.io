@@ -232,3 +232,13 @@ footer {
 .nav, .btn.btn-raised.btn-info {
      background-color: #4169E1 !important;
 }
+
+.img-project-item {
+    height: 35%;
+    width: 35%;
+    margin: 0 0 1% 2%;
+}
+
+blockquote {
+    font-size: 0.75em;
+}
