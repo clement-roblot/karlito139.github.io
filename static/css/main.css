@@ -234,11 +234,47 @@ footer {
 }
 
 .img-project-item {
-    height: 35%;
-    width: 35%;
+    height: 30%;
+    width: 30%;
     margin: 0 0 1% 2%;
 }
 
-blockquote {
-    font-size: 0.75em;
+.tiles {
+    background-color: #6f6f6f;
+    color: #ffffff;
+    position: relative;
+}
+
+.tiles .tiles-body {
+    padding: 5px 15px 10px 15px;
+}
+
+.tiles-body {
+    font-size: 0.9em;
+}
+
+.tiles-title {
+    font-size: 1.25em;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+.red-underline {
+    display: block;
+    width: 20px;
+    height: 2px;
+    background-color: #2B2B2B;
+    border: none;
+    padding: 0px;
+    margin: 0px 0px 5px 0px;  
+}
+
+.tiles-results {
+    list-style-type: none;
+    margin: 0px !important;
+}
+
+.tiles a {
+    color: #2B2B2B;
+    text-decoration: underline;
 }
