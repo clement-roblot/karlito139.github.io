@@ -226,7 +226,7 @@ footer {
 /******************/
 .project-item-header {
     font-size: 14px;
-    font-style: italic;
+    font-family: "FontAwesome" !important;
 }
 
 .nav, .btn.btn-raised.btn-info {
@@ -241,7 +241,7 @@ footer {
 
 .tiles {
     background-color: #6f6f6f;
-    color: #ffffff;
+    color: white;
     position: relative;
 }
 
