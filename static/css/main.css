@@ -278,3 +278,7 @@ footer {
     color: #2B2B2B;
     text-decoration: underline;
 }
+
+blockquote {
+    font-size: 0.90em;
+}
