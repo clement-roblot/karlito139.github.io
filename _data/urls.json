@@ -16,11 +16,6 @@
     "icon": "fa-book"
   },
   {
-    "text": "Resume",
-    "url": "#",
-    "icon": "fa-file-text-o"
-  },
-  {
     "text": "Contact",
     "url": "mailto:fr.florianroussel@gmail.com",
     "icon": "fa-envelope-o"
