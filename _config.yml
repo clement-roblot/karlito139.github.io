@@ -5,7 +5,7 @@ logo: /static/img/red-panda.svg
 about: C++/Qt Software Engineer
 
 baseurl: ""
-url: "127.0.0.1"
+url: "index.html"
 
 allowsearch: false
 allowgoogleanalytics: true
