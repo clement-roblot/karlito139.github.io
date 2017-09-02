@@ -8,6 +8,11 @@ layout: default
 			<br/>
 			<span class="fa fa-calendar"><span class="project-item-header"> {{ page.date_begin }} - {{ page.date_end }}</span>
 			<br/>
+			{% if page.team_number %}
+			<span class="fa fa-user"></span>
+			<span class="project-item-header">{{ page.team_number }} people on this project</span>
+			{% endif %}
+			<br/>
 			{{ content }}
 		</div>
 	</article>

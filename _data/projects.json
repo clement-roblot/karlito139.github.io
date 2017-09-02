@@ -18,12 +18,6 @@
     "tags": ["C++","Java"]
   },
   {
-    "name": "Home automation",
-    "image": "home-automation.png",
-    "url": "/projects/home-automation.html",
-    "tags": ["Python","Arduino","JSON"]
-  },
-  {
     "name": "Engineering design software",
     "image": "dcns.jpg",
     "url": "/projects/dcns.html",

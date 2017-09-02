@@ -5,6 +5,7 @@ date_begin: Apr, 2014
 date_end: Aug, 2014
 category: Professional
 company: Thales
+team_number: 1
 ---
 <img class="img-project-item" src="/static/projects/TDOA/U-TDOA.jpg" alt="U-TDOA" align="right"/>
 <h2><b>Concept</b></h2>

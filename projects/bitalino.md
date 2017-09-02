@@ -4,6 +4,7 @@ title: Projects - Impact of immersive interfaces
 date_begin: Nov, 2014
 date_end: Feb, 2015
 category: School
+team_number: 3
 ---
 <img class="img-project-item" src="/static/projects/BITalino/Muscles-Labeled-1.jpg" alt="Arm anatomy" align="right"/>
 <h2><b>Concept</b></h2>
