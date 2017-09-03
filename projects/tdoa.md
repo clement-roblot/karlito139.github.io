@@ -1,13 +1,13 @@
 ---
 layout: project_item
-title: Projects - TDOA localization
+title: Multilateration
 date_begin: Apr, 2014
 date_end: Aug, 2014
 category: Professional
 company: Thales
 team_number: 1
 ---
-<img class="img-project-item" src="/static/projects/TDOA/U-TDOA.jpg" alt="U-TDOA" align="right"/>
+<a href="/static/projects/TDOA/U-TDOA.jpg" class="thickbox"><img class="img-project-item" src="/static/projects/TDOA/U-TDOA.jpg" alt="U-TDOA" align="right"/></a>
 <h2><b>Concept</b></h2>
 <hr>
 Carry out feasibility studies on axes of improvements on the system of location by the time difference of arrival (TDOA) based on multilateration.
@@ -16,7 +16,7 @@ Multilateration principle is to receive the same radio signal at several differe
 <h3><b>Major Points</b></h3>
 <hr>
 <div class="row">
-   <div class="col-xs-4 col-md-4 col-sm-12">
+   <div class="col-md-4 col-sm-4 col-xs-12">
       <div class="tiles m-b-10">
          <div class="tiles-body">
             <div class="tiles-title">Axes</div>
@@ -25,7 +25,7 @@ Multilateration principle is to receive the same radio signal at several differe
          </div>
       </div>
    </div>
-   <div class="col-xs-4 col-md-4 col-sm-12">
+   <div class="col-md-4 col-sm-4 col-xs-12">
       <div class="tiles m-b-10">
          <div class="tiles-body">
             <div class="tiles-title">Algorithms</div>
@@ -38,7 +38,7 @@ Multilateration principle is to receive the same radio signal at several differe
          </div>
       </div>
    </div>
-   <div class="col-xs-4 col-md-4 col-sm-12">
+   <div class="col-md-4 col-sm-4 col-xs-12">
       <div class="tiles m-b-10">
          <div class="tiles-body">
             <div class="tiles-title">Results</div>

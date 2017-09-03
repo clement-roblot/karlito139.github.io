@@ -1,4 +1,4 @@
-.main.outer{padding-top: 50px;}
+.main.outer{padding-top: 25px;}
 .header-panel.shadow-z-2 {
     background-color: #4169E1;
     padding: 50px 0 15px 0;
@@ -99,7 +99,10 @@ li.current-menu-item:before {
     color: #01c87b;
     font-weight: 300;
 }
-h2.blog-title-pro{color: #fff;}
+h2.blog-title-pro {
+    color: #fff;
+    margin-left: 15px;
+}
 h2.blog-title-pro:after {
     content: "";
     display: block;

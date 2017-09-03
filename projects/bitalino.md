@@ -1,12 +1,12 @@
 ---
 layout: project_item
-title: Projects - Impact of immersive interfaces
+title: Muscular impact
 date_begin: Nov, 2014
 date_end: Feb, 2015
 category: School
 team_number: 3
 ---
-<img class="img-project-item" src="/static/projects/BITalino/Muscles-Labeled-1.jpg" alt="Arm anatomy" align="right"/>
+<a href="/static/projects/BITalino/Muscles-Labeled-1.jpg" class="thickbox"><img class="img-project-item" src="/static/projects/BITalino/Muscles-Labeled-1.jpg" alt="Arm anatomy" align="right"/></a>
 <h2><b>Concept</b></h2>
 <hr>
 Development of an application which measure muscular impact on a person of a virtual reality application on 1D and 2D. To do this, we used the EMG module of the <a href="http://bitalino.com/en/" target="_blank">BITalino</a> acquisition card.<br/><br/>
@@ -15,7 +15,7 @@ As a reminder,
 <h3><b>Major Points</b></h3>
 <hr>
 <div class="row">
-   <div class="col-xs-4 col-md-4 col-sm-12">
+   <div class="col-md-4 col-sm-4 col-xs-12">
       <div class="tiles m-b-10">
          <div class="tiles-body">
             <div class="tiles-title">Controllers</div>
@@ -29,7 +29,7 @@ As a reminder,
          </div>
       </div>
    </div>
-   <div class="col-xs-4 col-md-4 col-sm-12">
+   <div class="col-md-4 col-sm-4 col-xs-12">
       <div class="tiles m-b-10">
          <div class="tiles-body">
             <div class="tiles-title">Acquisition</div>
@@ -38,7 +38,7 @@ As a reminder,
          </div>
       </div>
    </div>
-   <div class="col-xs-4 col-md-4 col-sm-12">
+   <div class="col-md-4 col-sm-4 col-xs-12">
       <div class="tiles m-b-10">
          <div class="tiles-body">
             <div class="tiles-title">Results</div>
@@ -60,7 +60,7 @@ The measurement scenario is as follows:
 <li>It validates its acquisition by pressing the space key.</li>
 </ul>
 <br/>
-<center><img src="/static/projects/BITalino/AcquisitionSoftware.PNG" alt="Project software" width="90%" height="90%" /></center>
+<center><a href="/static/projects/BITalino/AcquisitionSoftware.PNG" class="thickbox"><img src="/static/projects/BITalino/AcquisitionSoftware.PNG" alt="Project software" width="90%" height="90%" /></a></center>
 <br/>
 <h3>Acquisition</h3>
 Throughout the game phase, all of the following values are saved to a file for later analysis.
@@ -92,4 +92,4 @@ The architecture of the project is divided into four distinct developments.
 </ul>
 Below is a summary.
 <br/>
-<center><img src="/static/projects/BITalino/Architecture.PNG" alt="Project architecture" width="90%" height="90%"/></center>
+<center><a href="/static/projects/BITalino/Architecture.PNG" class="thickbox"><img src="/static/projects/BITalino/Architecture.PNG" alt="Project architecture" width="80%" height="80%" /></a></center>

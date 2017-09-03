@@ -6,19 +6,19 @@
 		"tags": ["C++","Qt","Lua","Yocto"]
 	},
   {
-    "name": "EMG data exploitation",
+    "name": "Muscular impact",
     "image": "BITalino.jpg",
     "url": "/projects/bitalino.html",
     "tags": ["Python", "LeapMotion", "Kinect"]
   },
   {
-    "name": "TDOA localization",
+    "name": "Multilateration",
     "image": "TDOA.jpg",
     "url": "/projects/tdoa.html",
     "tags": ["C++","Java"]
   },
   {
-    "name": "Engineering design software",
+    "name": "Engineering design",
     "image": "dcns.jpg",
     "url": "/projects/engineering_design.html",
     "tags": ["C#","TFS","TDD"]

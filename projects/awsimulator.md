@@ -1,13 +1,13 @@
 ---
 layout: project_item
-title: Projects - AW Simulator
+title: AW Simulator
 date_begin: Mar, 2015
 date_end: Feb, 2017
 category: Professional
 company: Analog Way
 team_number: 2
 ---
-<img class="img-project-item" src="/static/projects/AW/visuel2-17227.png" alt="AW Simulator" align="right"/>
+<a href="/static/projects/AW/visuel2-17227.png" class="thickbox"><img class="img-project-item" src="/static/projects/AW/visuel2-17227.png" alt="Yocto architecture" align="right" /></a>
 <h2><b>Concept</b></h2>
 <hr>
 Analog Way provide video mixers/switchers designed to meet any demand, whether it's live events, conferences or integrations. These devices offer a multitude of inputs (analog and digital) and offer multi-format mixer, scaler, soft-edge, matrix, with a variety of transitions and dynamic effects. For self-training or shows preparation upstream of the performance, the rental of these devices is expensive.
@@ -18,7 +18,7 @@ To do this, the software has been coded in C++, the adaptative features motor of
 <h3><b>Major Points</b></h3>
 <hr>
 <div class="row">
-   <div class="col-xs-4 col-md-4 col-sm-12">
+   <div class="col-md-4 col-sm-4 col-xs-12">
       <div class="tiles m-b-10">
          <div class="tiles-body">
             <div class="tiles-title">Analysis</div>
@@ -27,7 +27,7 @@ To do this, the software has been coded in C++, the adaptative features motor of
          </div>
       </div>
    </div>
-   <div class="col-xs-4 col-md-4 col-sm-12">
+   <div class="col-md-4 col-sm-4 col-xs-12">
       <div class="tiles m-b-10">
          <div class="tiles-body">
             <div class="tiles-title">Coding</div>
@@ -36,7 +36,7 @@ To do this, the software has been coded in C++, the adaptative features motor of
          </div>
       </div>
    </div>
-   <div class="col-xs-4 col-md-4 col-sm-12">
+   <div class="col-md-4 col-sm-4 col-xs-12">
       <div class="tiles m-b-10">
          <div class="tiles-body">
             <div class="tiles-title">Result</div>
@@ -51,4 +51,4 @@ To do this, the software has been coded in C++, the adaptative features motor of
 To make the application as light as possible, we chose to create an operating system (using Yocto) adapted to the needs of the project. This creation follows the reflexion not to force the user to install a web server (interface controls of the machine) on his workstation, to avoid being intrusive.
 <blockquote cite="https://www.yoctoproject.org">The Yocto Project is an open source collaboration project that provides templates, tools and methods to help you create custom Linux-based systems for embedded products regardless of the hardware architecture. It was founded in 2010 as a collaboration among many hardware manufacturers, open-source operating systems vendors, and electronics companies to bring some order to the chaos of embedded Linux development.</blockquote>
 <blockquote cite="hhttps://www.yoctoproject.org/docs/2.1/yocto-project-qs/yocto-project-qs.html">The Yocto Project through the OpenEmbedded build system provides an open source development environment targeting the ARM, MIPS, PowerPC, and x86 architectures for a variety of platforms including x86-64 and emulated ones. You can use components from the Yocto Project to design, develop, build, debug, simulate, and test the complete software stack using Linux, the X Window System, GTK+ frameworks, and Qt frameworks.</blockquote>
-<center><img src="/static/projects/AW/yocto-environment.png" alt="Yocto architecture" width="80%" height="80%"/></center>
+<center><a href="/static/projects/AW/yocto-environment.png" class="thickbox"><img src="/static/projects/AW/yocto-environment.png" width="80%" height="80%" alt="Yocto architecture" /></a></center>
