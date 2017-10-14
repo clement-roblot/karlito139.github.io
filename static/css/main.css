@@ -1,6 +1,6 @@
 .main.outer{padding-top: 25px;}
 .header-panel.shadow-z-2 {
-    background-color: #4169E1;
+    background-color: #b33422;
     padding: 50px 0 15px 0;
     width: 100%;
 }
@@ -55,7 +55,7 @@ p.info a {
     text-align: center;
     line-height: 20px;
     font-size: 20px;
-    color: #4169E1;
+    color: #b33422;
     padding: 5px;
     width: 30px;
     height: 30px;
@@ -63,7 +63,7 @@ p.info a {
 }
 .icon:hover {
     color: rgba(255, 255, 255, 0.63);
-    background: #4169E1;
+    background: #b33422;
 }
 .menu ul li {
     list-style: none;
@@ -71,7 +71,7 @@ p.info a {
 }
 
 .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{
-    background: #6495ED;
+    background: #b6584b;
 }
 li.current-menu-item:before {
     content: "";
@@ -81,7 +81,7 @@ li.current-menu-item:before {
     position: absolute;
     left: 9px;
     vertical-align: middle;
-    background: #000080;
+    background: #7a0f00;
 }
 .menu ul li a {
     font-size: 15px;
@@ -233,7 +233,7 @@ footer {
 }
 
 .nav, .btn.btn-raised.btn-info {
-     background-color: #4169E1 !important;
+     background-color: #b33422 !important;
 }
 
 .img-project-item {
