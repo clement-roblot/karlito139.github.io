@@ -1,8 +1,8 @@
-title: Florian Roussel - Blog
+title: Clément Roblot - Blog
 description: Blog
-author: Florian Roussel
-logo: /static/img/red-panda.svg
-about: C++/Qt Software Engineer
+author: Clément Roblot
+logo: /static/img/logoColor.png
+about: Freelance C++/Qt developper
 
 baseurl: ""
 url: "index.html"
@@ -10,8 +10,8 @@ url: "index.html"
 allowsearch: false
 allowgoogleanalytics: true
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+disqus_shortname: karlito139
+google_analytics: UA-108001537-1
 
 enableTags: true
 tagarray: []
