@@ -3,19 +3,19 @@
 		"name": "AW Edid editor",
 		"image": "awEdidEditor/avatar.png",
 		"url": "/projects/awEdidEditor.html",
-		"tags": ["C++", "Qt"]
+		"tags": ["C++", "Qt", "Memory"]
 	},
   {
     "name": "AW Livecore",
     "image": "awLivecore/avatar.png",
     "url": "/projects/awLivecore.html",
-    "tags": ["C", "ARM"]
+    "tags": ["C", "ARM", "Video"]
   },
   {
     "name": "Localtube",
     "image": "localtube/avatar.png",
     "url": "/projects/localtube.html",
-    "tags": ["C++", "Qt"]
+    "tags": ["C++", "Qt", "API", "Youtube"]
   },
   {
     "name": "Delfly",
@@ -29,7 +29,4 @@
     "url": "/projects/emulsar.html",
     "tags": ["OpenCV", "C++", "Qt"]
   }
-
-
-
 ]
