@@ -1,26 +1,35 @@
 [
 	{
-		"name": "AW Simulator",
-		"image": "awsimulator.png",
-		"url": "/projects/awsimulator.html",
-		"tags": ["C++","Qt","Lua","Yocto"]
+		"name": "AW Edid editor",
+		"image": "awEdidEditor/avatar.png",
+		"url": "/projects/awEdidEditor.html",
+		"tags": ["C++", "Qt"]
 	},
   {
-    "name": "Muscular impact",
-    "image": "BITalino.jpg",
-    "url": "/projects/bitalino.html",
-    "tags": ["Python", "LeapMotion", "Kinect"]
+    "name": "AW Livecore",
+    "image": "awLivecore/avatar.png",
+    "url": "/projects/awLivecore.html",
+    "tags": ["C", "ARM"]
   },
   {
-    "name": "Multilateration",
-    "image": "TDOA.jpg",
-    "url": "/projects/tdoa.html",
-    "tags": ["C++","Java"]
+    "name": "Localtube",
+    "image": "localtube/avatar.png",
+    "url": "/projects/localtube.html",
+    "tags": ["C++", "Qt"]
   },
   {
-    "name": "Engineering design",
-    "image": "dcns.jpg",
-    "url": "/projects/engineering_design.html",
-    "tags": ["C#","TFS","TDD"]
+    "name": "Delfly",
+    "image": "delfly/avatar.png",
+    "url": "/projects/delfly.html",
+    "tags": ["C", "C++", "Qt"]
+  },
+  {
+    "name": "Vision algorithm",
+    "image": "emulsar/avatar.png",
+    "url": "/projects/emulsar.html",
+    "tags": ["OpenCV", "C++", "Qt"]
   }
+
+
+
 ]

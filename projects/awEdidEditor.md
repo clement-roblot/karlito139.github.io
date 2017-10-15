@@ -1,6 +1,6 @@
 ---
 layout: project_item
-title: AW Simulator
+title: AW Edid editor
 date_begin: Mar, 2015
 date_end: Feb, 2017
 category: Professional
