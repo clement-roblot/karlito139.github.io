@@ -28,9 +28,17 @@ $text_size: 13px;
  */
 .project-item.not-show{ display: none; }
 
+
+
+.project-outer :hover{
+    
+    //background-color: #A00000;
+}
+
 .project-outer {
 
     vertical-align: top;
+    //background-color: #A00000 !important;
 
     .project-headlines {
 
@@ -54,7 +62,8 @@ $text_size: 13px;
         @include margins(0 5px);
         font-size: ($heading_size / 2);
 
-        &:first-child, &:last-child { margin-left: 0; }
+        &:first-child { margin-left: 0; }
+        &:last-child { margin-right: 0; }
     }
 
     .project-footer {
