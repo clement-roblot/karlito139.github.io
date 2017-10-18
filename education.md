@@ -20,7 +20,7 @@ permalink: /education/
         <span class="label">Startup</span>
         <br/><br/>
         This 8 weeks formation allowed me to approach the start-up culture by understanding the ins and outs.
-        In 8 weeks, each LION is invited to meet talented entrepreneurs, train, follow inspiring lectures, test their skills and integrate a true community of enthusiasts.
+        Each LION is invited to meet talented entrepreneurs, train, follow inspiring lectures, test their skills and integrate in a true community of enthusiasts.
         <br/><br/>
       </div>
 
@@ -73,7 +73,7 @@ permalink: /education/
         <span class="label">UML</span>
         <span class="label">Project management</span>
         <br/><br/>
-        Thoses tree years gave me the diploma that seams to be necessary to work in this industry despite being depressingly empty from teachings.
+        Thoses tree years gave me a strong knowledge in embedded systems and software design.
         <br/><br/>
         <ul>
           <li>Strong skills in software development, programming languages, computer technologies and human-computer interaction</li>
