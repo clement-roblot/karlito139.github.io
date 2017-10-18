@@ -1,8 +1,8 @@
 ---
 layout: project_item
-title: AW Edid editor
-date_begin: Mar, 2015
-date_end: Feb, 2017
+title: Localtube
+date_begin: Jul, 2015
+date_end: Aug, 2015
 category: Professional
 company: Analog Way
 team_number: 2

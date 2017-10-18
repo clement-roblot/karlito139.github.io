@@ -1,11 +1,11 @@
 ---
 layout: project_item
-title: AW Edid editor
-date_begin: Mar, 2015
-date_end: Feb, 2017
+title: Vision algorithm
+date_begin: Jun, 2012
+date_end: Aug, 2012
 category: Professional
 company: Analog Way
-team_number: 2
+team_number: 1
 ---
 <a href="/static/projects/AW/visuel2-17227.png" class="thickbox"><img class="img-project-item" src="/static/projects/AW/visuel2-17227.png" alt="Yocto architecture" align="right" /></a>
 <h2><b>Concept</b></h2>

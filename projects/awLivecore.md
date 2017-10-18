@@ -1,11 +1,11 @@
 ---
 layout: project_item
-title: AW Edid editor
-date_begin: Mar, 2015
-date_end: Feb, 2017
+title: AW Livecore
+date_begin: Oct, 2014
+date_end: Sept, 2017
 category: Professional
 company: Analog Way
-team_number: 2
+team_number: 10
 ---
 <a href="/static/projects/AW/visuel2-17227.png" class="thickbox"><img class="img-project-item" src="/static/projects/AW/visuel2-17227.png" alt="Yocto architecture" align="right" /></a>
 <h2><b>Concept</b></h2>
