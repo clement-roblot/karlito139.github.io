@@ -236,6 +236,12 @@ footer {
      background-color: #b33422 !important;
 }
 
+.img-avatar-item {
+    width: 25%;
+    margin: 0% 5% 1% 2%;
+    border-radius: 50%;
+}
+
 .img-project-item {
     height: 40%;
     width: 40%;
