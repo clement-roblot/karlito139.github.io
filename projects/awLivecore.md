@@ -7,48 +7,45 @@ category: Professional
 company: Analog Way
 team_number: 10
 ---
-<a href="/static/projects/AW/visuel2-17227.png" class="thickbox"><img class="img-project-item" src="/static/projects/AW/visuel2-17227.png" alt="Yocto architecture" align="right" /></a>
+<a href="/static/projects/awLivecore/livrecodeFlycase.jpg" class="thickbox"><img class="img-project-item" src="/static/projects/awLivecore/livrecodeFlycase.jpg" alt="Livecore in a rack" align="right" /></a>
 <h2><b>Concept</b></h2>
 <hr>
-Analog Way provide video mixers/switchers designed to meet any demand, whether it's live events, conferences or integrations. These devices offer a multitude of inputs (analog and digital) and offer multi-format mixer, scaler, soft-edge, matrix, with a variety of transitions and dynamic effects. For self-training or shows preparation upstream of the performance, the rental of these devices is expensive.
+Analog Way builds video mixers/switchers designed to meet any demand, whether it is live events, conferences or integrations. These devices offer a multitude of inputs (analog and digital) and offer multi-format mixer, scaler, soft-edge and matrix, with a variety of transitions and dynamic effects.
 <br/><br/>
-The creation of a devices simulator avoids the extra cost of renting a device. Because the program had to simulate machines with different capacities and functionalities, it was necessary to generalize a maximum of treatments. The goal of this is to avoid the creation of specific code according to the machines that one wishes to simulate.
+The livecore plateform is the featured product of analog way, it can manage up to 4 full HD outputs and 12 inputs. It also includes a link feature that enables it to be connected to an other livecore to double its performances (24 inputs, 8 outputs).
 <br/><br/>
-To do this, the software has been coded in C++, the adaptative features motor of the devices is in Lua, the web interface driving the simulator (choice of the machine to simulate) is in HTML/CSS/PHP/JAVASCRIPT and everything is embedded in a virtual machine where the operating system was created using Yocto.
+As part of my position at analogway I was developing the software embedded in the microcontrolers of the devices. The 14 ARM microcontrolers needs to communicate with one another at all time to time video effects to the frame, and configure the multiple components that each board embed to generate the composed feed requested by the user.
+
 <h3><b>Major Points</b></h3>
 <hr>
 <div class="row">
-   <div class="col-md-4 col-sm-4 col-xs-12">
+   <div class="col-md-6 col-sm-6 col-xs-12">
       <div class="tiles m-b-10">
          <div class="tiles-body">
             <div class="tiles-title">Analysis</div>
             <hr class="red-underline">
-            Writing expressions of needs and software specifications.
+            Taking back a project that have already been developed to an advanced state, it was necessary for me to analyze the existing code well in order to integrate in the most organic way possible the new features that I was developing.
          </div>
       </div>
    </div>
-   <div class="col-md-4 col-sm-4 col-xs-12">
+   <div class="col-md-6 col-sm-6 col-xs-12">
       <div class="tiles m-b-10">
          <div class="tiles-body">
             <div class="tiles-title">Coding</div>
             <hr class="red-underline">
-				The coding of this project was done gradually, with the heart of the engine first. In parralère, the site of controls and the behavior scripts were coded. The operating system was the purpose of this project.
-         </div>
-      </div>
-   </div>
-   <div class="col-md-4 col-sm-4 col-xs-12">
-      <div class="tiles m-b-10">
-         <div class="tiles-body">
-            <div class="tiles-title">Result</div>
-            <hr class="red-underline">
-            Official release 13 months after the start of the project from scratch
+                The coding of this project was challenging in the constraints around it. The microcontrolers where already either full or lacking enough processing power. The new features needed to be very lean to be able to fit on-board.
          </div>
       </div>
    </div>
 </div>
 <h2><b>Focus on</b></h2>
 <hr>
-To make the application as light as possible, we chose to create an operating system (using Yocto) adapted to the needs of the project. This creation follows the reflexion not to force the user to install a web server (interface controls of the machine) on his workstation, to avoid being intrusive.
-<blockquote cite="https://www.yoctoproject.org">The Yocto Project is an open source collaboration project that provides templates, tools and methods to help you create custom Linux-based systems for embedded products regardless of the hardware architecture. It was founded in 2010 as a collaboration among many hardware manufacturers, open-source operating systems vendors, and electronics companies to bring some order to the chaos of embedded Linux development.</blockquote>
-<blockquote cite="hhttps://www.yoctoproject.org/docs/2.1/yocto-project-qs/yocto-project-qs.html">The Yocto Project through the OpenEmbedded build system provides an open source development environment targeting the ARM, MIPS, PowerPC, and x86 architectures for a variety of platforms including x86-64 and emulated ones. You can use components from the Yocto Project to design, develop, build, debug, simulate, and test the complete software stack using Linux, the X Window System, GTK+ frameworks, and Qt frameworks.</blockquote>
-<center><a href="/static/projects/AW/yocto-environment.png" class="thickbox"><img src="/static/projects/AW/yocto-environment.png" width="80%" height="80%" alt="Yocto architecture" /></a></center>
+To make the application as light and fast as possible, many techniques where used including :
+<ul>
+   <li>Structure optimization</li>
+   <li>Structure packing</li>
+   <li>Bit-field usage</li>
+   <li>Non blocking state machines</li>
+</ul>
+
+<center><a href="/static/projects/awLivecore/webrcs.jpg" class="thickbox"><img src="/static/projects/awLivecore/webrcs.jpg" width="70%" alt="WebRCS" /></a></center>
