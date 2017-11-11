@@ -7,7 +7,7 @@ category: Professional
 company: Analog Way
 team_number: 1
 ---
-<a href="/static/projects/AW/visuel2-17227.png" class="thickbox"><img class="img-project-item" src="/static/projects/awEdidEditor/formats.png" alt="Yocto architecture" align="right" /></a>
+<a href="/static/projects/awEdidEditor/formats.png" class="thickbox"><img class="img-project-item" src="/static/projects/awEdidEditor/formats.png" alt="EDID editor interface" align="right" /></a>
 <h2><b>Concept</b></h2>
 <hr>
 Analog Way builds video mixers/switchers designed to meet any demand, whether it is live events, conferences or integrations. These devices offer a multitude of inputs (analog and digital) and offer multi-format mixer, scaler, soft-edge and matrix, with a variety of transitions and dynamic effects.
