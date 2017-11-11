@@ -3,30 +3,18 @@
 		"name": "AW Edid editor",
 		"image": "awEdidEditor/avatar.png",
 		"url": "/projects/awEdidEditor.html",
-		"tags": ["C++", "Qt", "Memory"]
+		"tags": ["C++", "Qt"]
 	},
   {
     "name": "AW Livecore",
     "image": "awLivecore/avatar.png",
     "url": "/projects/awLivecore.html",
-    "tags": ["C", "ARM", "Video"]
+    "tags": ["C", "Embedded", "ARM", "Video"]
   },
   {
     "name": "Localtube",
     "image": "localtube/avatar.png",
     "url": "/projects/localtube.html",
     "tags": ["C++", "Qt", "API", "Youtube"]
-  },
-  {
-    "name": "Delfly",
-    "image": "delfly/avatar.png",
-    "url": "/projects/delfly.html",
-    "tags": ["C", "C++", "Qt"]
-  },
-  {
-    "name": "Vision algorithm",
-    "image": "emulsar/avatar.png",
-    "url": "/projects/emulsar.html",
-    "tags": ["OpenCV", "C++", "Qt"]
   }
 ]
