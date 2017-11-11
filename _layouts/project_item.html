@@ -4,14 +4,23 @@ layout: default
 <div class="post-content well">
 	<article class="content">
 		<div class="post">
-			<span class="fa fa-gear"></span><span class="project-item-header"> {{ page.category }} project {% if page.company %}at {{ page.company }}{% endif %}</span>
-			<br/>
-			<span class="fa fa-calendar"></span><span class="project-item-header"> {{ page.date_begin }} - {{ page.date_end }}</span>
-			<br/>
-			{% if page.team_number %}
-			<span class="fa fa-user"></span><span class="project-item-header">{{ page.team_number }} people</span>
-			{% endif %}
-			<br/>
-			{{ content }}
-		</div>
-	</article>
+            <table style="width:50%">
+                <tr>
+                    <td><span class="fa fa-gear"></span></td>
+                    <td><span class="project-item-header">{{ page.category }} project {% if page.company %}at {{ page.company }}{% endif %}</span></td>
+                </tr>
+                <tr>
+                    <td><span class="fa fa-calendar"></span></td>
+                    <td><span class="project-item-header"> {{ page.date_begin }} - {{ page.date_end }}</span></td>
+                </tr>
+                {% if page.team_number %}
+                <tr>
+                    <td><span class="fa fa-user"></span></td>
+                    <td><span class="project-item-header">{{ page.team_number }} people</span></td>
+                </tr>
+                {% endif %}
+            </table> 
+         <br/>
+         {{ content }}
+     </div>
+ </article>
